@@ -1,0 +1,7 @@
+
+shirts
+pants
+tshirts
+shorts
+shoes
+caps
